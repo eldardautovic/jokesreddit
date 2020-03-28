@@ -13,11 +13,11 @@
         </div>
         <div class="joke-stats">{{joke.data.ups}} Upvotes | {{joke.data.num_comments}} Comments</div>
       </div>
-      <Footer />
     </main>
     <div v-else>
       <LoadingSpinner />
     </div>
+    <Footer />
   </div>
 </template>
 
