@@ -1,4 +1,8 @@
-# jokes
+# Reddit Jokes
+
+Deployed @ https://jokes-reddit.netlify.com/
+
+This is a simple Vue.js exercise about reddit API.
 
 ## Project setup
 ```
